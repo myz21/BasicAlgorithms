@@ -1,0 +1,7 @@
+Statement 1: Valid Variable Declaration
+Statement 2: Valid Assignment Statement
+Statement 3: Valid Assignment Statement
+Statement 3: Valid If Statement
+Statement 4: Valid Assignment Statement
+Statement 4: Valid While Loop
+Statement 5: Valid Return Statement
