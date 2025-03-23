@@ -31,17 +31,17 @@ class MyQueue {
 
     //insert end
     public void enqueue(int dd) {
-        //we creating a new Node to insert front of Queue
+        //we creating a new Node to insert END of Queue
         Node insertedNode = new Node(dd);
 
-        if(front == null){
+        if(front == null || rear == null){
             front = insertedNode;
             rear = insertedNode;
             size = size + 1; //size is incremented
             return;
         }
-        insertedNode.next = front;
-        front = insertedNode;
+        rear.next = insertedNode;
+        rear = insertedNode;
         size = size + 1; //size is incremented
     }
 
