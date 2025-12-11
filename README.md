@@ -8,10 +8,7 @@ The problems in this repository are organized based on different algorithmic con
 
 - **Data Structures** (Arrays, Linked Lists, Stacks, Queues, Trees, Graphs, etc.)
 - **Sorting & Searching Algorithms** (Merge Sort, Quick Sort, Binary Search, etc.)
-- **Dynamic Programming** (Knapsack, Longest Common Subsequence, etc.)
-- **Graph Algorithms** (DFS, BFS, Dijkstra, Floyd-Warshall, etc.)
-- **Recursion & Backtracking** (N-Queens, Sudoku Solver, etc.)
-- **Greedy Algorithms** (Huffman Encoding, Activity Selection, etc.)
+- **Graph Algorithms** (DFS, BFS, Dijkstra, etc.)
 - **Mathematical Algorithms** (Prime Numbers, GCD, LCM, etc.)
 
 ## How to Use
