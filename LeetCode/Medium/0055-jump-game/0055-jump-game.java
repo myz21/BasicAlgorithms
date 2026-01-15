@@ -4,7 +4,7 @@ class Solution {
 
         int dest = nums.length -1;
         for(int i = nums.length - 2 ; i >= 0  ; i--){
-            if (nums[i] >= dest - i){
+            if (i + nums[i] >= dest){
                 dest = i;
             }    
         }
