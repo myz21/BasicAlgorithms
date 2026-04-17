@@ -35,4 +35,5 @@ This repository is open-source and available under the MIT License.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0176-second-highest-salary](https://github.com/myz21/BasicAlgorithms/tree/main/LeetCode/Medium/0176-second-highest-salary/) | Medium |
+| [0197-rising-temperature](https://github.com/myz21/BasicAlgorithms/tree/main/LeetCode/Easy/0197-rising-temperature/) | Easy |
 <!---LeetCode Topics End-->
