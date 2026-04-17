@@ -36,4 +36,5 @@ This repository is open-source and available under the MIT License.
 | ------- | ------- |
 | [0176-second-highest-salary](https://github.com/myz21/BasicAlgorithms/tree/main/LeetCode/Medium/0176-second-highest-salary/) | Medium |
 | [0197-rising-temperature](https://github.com/myz21/BasicAlgorithms/tree/main/LeetCode/Easy/0197-rising-temperature/) | Easy |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/myz21/BasicAlgorithms/tree/main/LeetCode/Easy/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
 <!---LeetCode Topics End-->
