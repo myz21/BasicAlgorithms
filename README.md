@@ -28,3 +28,11 @@ If you have suggestions or improvements for any solutions, feel free to open an 
 ## License
 This repository is open-source and available under the MIT License.
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0176-second-highest-salary](https://github.com/myz21/BasicAlgorithms/tree/main/LeetCode/Medium/0176-second-highest-salary/) | Medium |
+<!---LeetCode Topics End-->
