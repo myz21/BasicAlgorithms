@@ -36,6 +36,7 @@ This repository is open-source and available under the MIT License.
 | ------- | ------- |
 | [0176-second-highest-salary](https://github.com/myz21/BasicAlgorithms/tree/main/LeetCode/Medium/0176-second-highest-salary/) | Medium |
 | [0197-rising-temperature](https://github.com/myz21/BasicAlgorithms/tree/main/LeetCode/Easy/0197-rising-temperature/) | Easy |
+| [1517-find-users-with-valid-e-mails](https://github.com/myz21/BasicAlgorithms/tree/main/LeetCode/Easy/1517-find-users-with-valid-e-mails/) | Easy |
 | [1527-patients-with-a-condition](https://github.com/myz21/BasicAlgorithms/tree/main/LeetCode/Easy/1527-patients-with-a-condition/) | Easy |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/myz21/BasicAlgorithms/tree/main/LeetCode/Easy/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
 | [1667-fix-names-in-a-table](https://github.com/myz21/BasicAlgorithms/tree/main/LeetCode/Easy/1667-fix-names-in-a-table/) | Easy |
